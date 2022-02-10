@@ -67,7 +67,7 @@ if (isset($_GET['select']) !== false) {
 
 <body>
     <div class="container">
-        <form action="snack-spesa.php" method="$_GET">
+        <form action="snack-market.php" method="$_GET">
             <select name="select" id="select">
                 <option value="all">all</option>
                 <option value="Biscotti">Biscotti</option>
